@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building scalable web applications with **Laravel 11**
+- 🔭 I’m currently building scalable web applications with **Laravel 12**
 - 🌱 Continuously sharpening my skills in **modern PHP, REST APIs, and frontend frameworks**
 - 💼 Working on production projects, migrations, and MVC-based eCommerce platforms
 - 💬 Ask me about **Laravel, PHP, MySQL, Blade templating, and server migrations**
