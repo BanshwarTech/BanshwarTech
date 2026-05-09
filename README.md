@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/alekh-banshwar-5220b6201/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alekh@youstable.com">
+  <a href="mailto:contact@alekh.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/BanshwarTech">
