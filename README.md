@@ -13,7 +13,7 @@
 - 🌱 Continuously sharpening my skills in **modern PHP, REST APIs, and frontend frameworks**
 - 💼 Working on production projects, migrations, and MVC-based eCommerce platforms
 - 💬 Ask me about **Laravel, PHP, MySQL, Blade templating, and server migrations**
-- 📫 Reach me at **alekh@youstable.com**
+- 📫 Reach me at **contact@alekh.dev**
 
 ---
 
