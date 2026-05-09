@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=Building+robust+web+applications;Laravel+%7C+PHP+%7C+React+%7C+Next.js;Hosting+%7C+CRM+%7C+eCommerce+%7C+EdTech;Clean+code.+Scalable+solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=Building+robust+web+applications;Laravel+%7C+PHP+%7C+React+%7C+JavaScript;Web+Hosting+%7C+EdTech+%7C+Form+Security;Clean+code.+Scalable+solutions." alt="Typing SVG" />
 </p>
 
 ---
@@ -19,8 +19,9 @@
 
 - 🔭 Currently building scalable web applications with **Laravel 12** at **YouStable**
 - 💼 Working across the **web hosting industry** — building platforms, migrations, and customer tools
-- 🌱 Expanding into **modern JavaScript stacks** — React, Next.js, TypeScript, Vue
+- 🌱 Expanding into **modern JavaScript stacks** — React, Vue, and TypeScript
 - 🛡️ Built form-security tooling around **Google reCAPTCHA v2/v3**
+- 🎓 Built **fee-management systems** for educational institutions (Laravel + Blade)
 - 💬 Ask me about **Laravel, PHP, MySQL, server migrations, hosting platforms**
 - 📫 Reach me at **alekh@youstable.com**
 
@@ -30,10 +31,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Hosting-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRM_Systems-00A1F1?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/eCommerce-FF9900?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/EdTech-4285F4?style=for-the-badge&logo=googleclassroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Form_Security-EA4335?style=for-the-badge&logo=googlerecaptcha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server_Migrations-007ACC?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMS_Customization-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ---
@@ -135,25 +136,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛒 eCommerce MVC Platform</h4>
-      <p>Custom-built eCommerce application using MVC architecture in PHP — full product catalog, cart, and checkout.</p>
-      <a href="https://github.com/BanshwarTech/ecomm_mvc">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MVC-512BD4?style=flat&logo=dotnet&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 AIWHM-CRM</h4>
-      <p>JavaScript-based CRM solution for managing customer relationships in the hosting/billing space.</p>
-      <a href="https://github.com/BanshwarTech/AIWHM-CRM">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>🛡️ reCAPTCHA Integration</h4>
       <p>A clean PHP implementation of Google's reCAPTCHA v2/v3 to protect forms from bots and verify human users.</p>
       <a href="https://github.com/BanshwarTech/reCAPTCHA">
@@ -174,14 +156,25 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💼 Next.js Portfolio</h4>
-      <p>Personal portfolio built with Next.js and TypeScript, deployed on a custom domain.</p>
-      <a href="https://github.com/BanshwarTech/NextJsPortfolio">
+      <h4>💻 CodingBrackets</h4>
+      <p>Laravel + Blade web project — multi-page application with custom layouts and routing.</p>
+      <a href="https://github.com/BanshwarTech/codingbrackets">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
       </a>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blade-F7523F?style=flat&logo=laravel&logoColor=white" />
     </td>
+    <td width="50%" valign="top">
+      <h4>🏢 YouStable Platform</h4>
+      <p>PHP-powered platform for the YouStable web hosting company — production-grade customer site.</p>
+      <a href="https://github.com/Coding-brackets/youstable">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🌱 Yati Foundation</h4>
       <p>Static site for a non-profit foundation, hosted at <code>yatifoundation.alekh.dev</code>.</p>
@@ -190,6 +183,15 @@
       </a>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Laravel 11 Sandbox</h4>
+      <p>Hands-on project exploring Laravel 11's newest features — modern routing, queues, and middleware patterns.</p>
+      <a href="https://github.com/BanshwarTech/first-project-for-learning-with-some-new-features-laravel-11">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
     </td>
   </tr>
 </table>
