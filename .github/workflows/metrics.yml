@@ -1,19 +1,40 @@
 name: GitHub Metrics
 
 on:
+  # Refresh every 12 hours
   schedule:
     - cron: "0 */12 * * *"
+
+  # Allow manual trigger from the Actions tab
   workflow_dispatch:
+
+  # Run on pushes to main, but skip when only the generated SVGs change
+  # (prevents the workflow from triggering itself in an infinite loop)
   push:
     branches: ["main"]
+    paths-ignore:
+      - "metrics.svg"
+      - "metrics.plugin.isocalendar.svg"
+      - "metrics.plugin.achievements.svg"
+      - "metrics.plugin.habits.svg"
+
+# Cancel any in-progress run when a new one starts
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
 
 jobs:
   metrics:
+    name: Generate metrics
     runs-on: ubuntu-latest
     steps:
+      # ---------------------------------------------------------
+      # 1. Main metrics card
+      #    Activity, community, repositories, languages, lines, topics
+      # ---------------------------------------------------------
       - name: Main metrics card
         uses: lowlighter/metrics@latest
         with:
@@ -23,16 +44,31 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          config_display: large
+          config_padding: 0, 8 + 11%
+
+          # Languages breakdown
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, dockerfile, makefile, shell, batchfile
           plugin_languages_details: percentage, bytes-size
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          # Other useful plugins
           plugin_lines: yes
+          plugin_lines_history_limit: 1
           plugin_followup: yes
+          plugin_followup_sections: repositories, user
           plugin_topics: yes
           plugin_topics_mode: icons
+          plugin_topics_limit: 0
           plugin_stargazers: yes
+          plugin_stargazers_charts_type: graph
 
+      # ---------------------------------------------------------
+      # 2. 3D Contribution Calendar (full year)
+      # ---------------------------------------------------------
       - name: Isocalendar (3D contributions)
         uses: lowlighter/metrics@latest
         with:
@@ -44,6 +80,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+      # ---------------------------------------------------------
+      # 3. Achievements
+      # ---------------------------------------------------------
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
@@ -58,6 +97,9 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_limit: 0
 
+      # ---------------------------------------------------------
+      # 4. Coding Habits (commit patterns, charts, facts)
+      # ---------------------------------------------------------
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
@@ -71,3 +113,4 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_trim: yes
