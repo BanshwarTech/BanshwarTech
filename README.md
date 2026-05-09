@@ -23,7 +23,7 @@
 - 🛡️ Built form-security tooling around **Google reCAPTCHA v2/v3**
 - 🎓 Built **fee-management systems** for educational institutions (Laravel + Blade)
 - 💬 Ask me about **Laravel, PHP, MySQL, server migrations, hosting platforms**
-- 📫 Reach me at **alekh@youstable.com**
+- 📫 Reach me at **contact@alekh.dev**
 
 ---
 
@@ -111,93 +111,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 GoogieHost Migration (Laravel)</h4>
-      <p>Full Laravel-based migration platform for the GoogieHost web hosting service. Built with Blade templates and MySQL.</p>
-      <a href="https://github.com/BanshwarTech/googiehostMigrationLaravel">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blade-F7523F?style=flat&logo=laravel&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ QloudHost React Frontend</h4>
-      <p>React-based customer-facing frontend for QloudHost, delivering a modern hosting platform UI.</p>
-      <a href="https://github.com/Coding-brackets/qloudHostReact">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ reCAPTCHA Integration</h4>
-      <p>A clean PHP implementation of Google's reCAPTCHA v2/v3 to protect forms from bots and verify human users.</p>
-      <a href="https://github.com/BanshwarTech/reCAPTCHA">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/reCAPTCHA-EA4335?style=flat&logo=googlerecaptcha&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎓 Fees Management System</h4>
-      <p>Laravel-based fee tracking and management application for educational institutions.</p>
-      <a href="https://github.com/BanshwarTech/fees-management">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blade-F7523F?style=flat&logo=laravel&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 CodingBrackets</h4>
-      <p>Laravel + Blade web project — multi-page application with custom layouts and routing.</p>
-      <a href="https://github.com/BanshwarTech/codingbrackets">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blade-F7523F?style=flat&logo=laravel&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏢 YouStable Platform</h4>
-      <p>PHP-powered platform for the YouStable web hosting company — production-grade customer site.</p>
-      <a href="https://github.com/Coding-brackets/youstable">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌱 Yati Foundation</h4>
-      <p>Static site for a non-profit foundation, hosted at <code>yatifoundation.alekh.dev</code>.</p>
-      <a href="https://github.com/BanshwarTech/yatifoundation.alekh.dev">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Laravel 11 Sandbox</h4>
-      <p>Hands-on project exploring Laravel 11's newest features — modern routing, queues, and middleware patterns.</p>
-      <a href="https://github.com/BanshwarTech/first-project-for-learning-with-some-new-features-laravel-11">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats — Live Data
 
 <p align="center">
@@ -252,7 +165,7 @@
   <a href="https://www.linkedin.com/in/alekh-banshwar-5220b6201/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alekh@youstable.com">
+  <a href="mailto:contact@alekh.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/BanshwarTech">
