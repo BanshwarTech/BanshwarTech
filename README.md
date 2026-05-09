@@ -54,8 +54,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BanshwarTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanshwarTech&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="./metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.habits.svg" alt="Coding Habits" width="49%" />
+  <img src="./metrics.plugin.achievements.svg" alt="Achievements" width="49%" />
 </p>
 
 <p align="center">
