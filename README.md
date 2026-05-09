@@ -13,7 +13,7 @@
 - 🌱 Continuously sharpening my skills in **modern PHP, REST APIs, and frontend frameworks**
 - 💼 Working on production projects, migrations, and MVC-based eCommerce platforms
 - 💬 Ask me about **Laravel, PHP, MySQL, Blade templating, and server migrations**
-- 📫 Reach me at **contact@alekh.dev**
+- 📫 Reach me at **alekh@youstable.com**
 
 ---
 
@@ -54,8 +54,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BanshwarTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanshwarTech&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BanshwarTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanshwarTech&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
