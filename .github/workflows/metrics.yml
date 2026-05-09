@@ -1,15 +1,9 @@
 name: GitHub Metrics
 
 on:
-  # Refresh every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-
-  # Allow manual trigger from the Actions tab
   workflow_dispatch:
-
-  # Run on pushes to main, but skip when only the generated SVGs change
-  # (prevents the workflow from triggering itself in an infinite loop)
   push:
     branches: ["main"]
     paths-ignore:
@@ -18,7 +12,6 @@ on:
       - "metrics.plugin.achievements.svg"
       - "metrics.plugin.habits.svg"
 
-# Cancel any in-progress run when a new one starts
 concurrency:
   group: metrics-${{ github.ref }}
   cancel-in-progress: true
@@ -31,9 +24,14 @@ jobs:
     name: Generate metrics
     runs-on: ubuntu-latest
     steps:
+      # Check out the repo so we can commit generated SVGs
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       # ---------------------------------------------------------
       # 1. Main metrics card
-      #    Activity, community, repositories, languages, lines, topics
       # ---------------------------------------------------------
       - name: Main metrics card
         uses: lowlighter/metrics@latest
@@ -45,9 +43,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_display: large
-          config_padding: 0, 8 + 11%
+          output_action: none
 
-          # Languages breakdown
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, dockerfile, makefile, shell, batchfile
           plugin_languages_details: percentage, bytes-size
@@ -55,7 +52,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
 
-          # Other useful plugins
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_followup: yes
@@ -77,6 +73,7 @@ jobs:
           user: BanshwarTech
           base: ""
           config_timezone: Asia/Kolkata
+          output_action: none
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -91,6 +88,7 @@ jobs:
           user: BanshwarTech
           base: ""
           config_timezone: Asia/Kolkata
+          output_action: none
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
@@ -98,7 +96,7 @@ jobs:
           plugin_achievements_limit: 0
 
       # ---------------------------------------------------------
-      # 4. Coding Habits (commit patterns, charts, facts)
+      # 4. Coding Habits
       # ---------------------------------------------------------
       - name: Habits
         uses: lowlighter/metrics@latest
@@ -108,9 +106,38 @@ jobs:
           user: BanshwarTech
           base: ""
           config_timezone: Asia/Kolkata
+          output_action: none
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+
+      # ---------------------------------------------------------
+      # Diagnostic: confirm files were generated
+      # ---------------------------------------------------------
+      - name: Verify generated files
+        run: |
+          echo "=== Generated SVG files ==="
+          ls -lh metrics*.svg 2>/dev/null || echo "❌ NO SVG FILES FOUND — metrics generation failed"
+          echo ""
+          echo "=== File sizes ==="
+          du -h metrics*.svg 2>/dev/null || true
+
+      # ---------------------------------------------------------
+      # Commit and push SVGs back to repo
+      # Uses default GITHUB_TOKEN (always has contents:write here)
+      # ---------------------------------------------------------
+      - name: Commit and push SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.svg metrics.plugin.*.svg 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit (metrics unchanged)"
+          else
+            git commit -m "chore(metrics): update GitHub stats SVGs [skip ci]"
+            git push
+            echo "✅ Pushed updated metrics SVGs"
+          fi
