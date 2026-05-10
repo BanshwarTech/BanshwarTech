@@ -85,10 +85,10 @@
           <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress"  />
         </a>
         <a href="https://zapier.com/" title="Zapier � Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
-          <img src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier" height="48" />
+          <img src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier" height="48" style="border-radius:10px;" />
         </a>
         <a href="https://claspo.io/" title="Claspo � Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
-          <img src="https://www.google.com/s2/favicons?domain=claspo.io&sz=64" alt="Claspo"  />
+          <img src="https://www.google.com/s2/favicons?domain=claspo.io&sz=64" alt="Claspo" height="48" style="border-radius:10px;"  />
         </a>
       </span>
     </td>
