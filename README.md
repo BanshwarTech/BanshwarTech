@@ -83,13 +83,10 @@
       <sub><i>workflow &amp; hosting</i></sub>
     </td>
     <td>
-      <a href="https://git-scm.com/" title="Git — Official site"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
       <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
       <a href="https://code.visualstudio.com/" title="VS Code — Official site"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
       <a href="https://www.postman.com/" title="Postman — Official site"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
       <a href="https://wordpress.org/" title="WordPress — Official site"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /></a>
-      <a href="https://httpd.apache.org/" title="Apache HTTP Server"><img src="https://skillicons.dev/icons?i=apache&theme=dark" alt="Apache" /></a>
-      <a href="https://nginx.org/" title="Nginx — Official site"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" /></a>
     </td>
   </tr>
 </table>
