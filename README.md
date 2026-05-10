@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack PHP Developer · Laravel Specialist · Web Hosting Domain</h3>
 
 <p align="center">
-  <a href="https://github.com/BanshwarTech">
+  <a href="https://github.com/BanshwarTech" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=BanshwarTech&label=Profile%20views&color=00bfff&style=for-the-badge" alt="Profile views" />
   </a>
   <img src="https://img.shields.io/github/followers/BanshwarTech?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
@@ -54,9 +54,9 @@
       <sub><i>daily driver</i></sub>
     </td>
     <td>
-      <a href="https://www.php.net/" title="PHP — Official site"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
-      <a href="https://laravel.com/" title="Laravel — Official site"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
-      <a href="https://www.mysql.com/" title="MySQL — Official site"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+      <a href="https://www.php.net/" title="PHP — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
+      <a href="https://laravel.com/" title="Laravel — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
+      <a href="https://www.mysql.com/" title="MySQL — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
     </td>
   </tr>
   <tr>
@@ -65,13 +65,13 @@
       <sub><i>modern JS &amp; styling</i></sub>
     </td>
     <td>
-      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript — MDN"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
-      <a href="https://vuejs.org/" title="Vue.js — Official site"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" /></a>
-      <a href="https://tailwindcss.com/" title="Tailwind CSS — Official site"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
-      <a href="https://getbootstrap.com/" title="Bootstrap — Official site"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
-      <a href="https://jquery.com/" title="jQuery — Official site"><img src="https://skillicons.dev/icons?i=jquery&theme=dark" alt="jQuery" /></a>
-      <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML — MDN"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" /></a>
-      <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS — MDN"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" /></a>
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript — MDN" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+      <a href="https://vuejs.org/" title="Vue.js — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" /></a>
+      <a href="https://tailwindcss.com/" title="Tailwind CSS — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
+      <a href="https://getbootstrap.com/" title="Bootstrap — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
+      <a href="https://jquery.com/" title="jQuery — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=jquery&theme=dark" alt="jQuery" /></a>
+      <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML — MDN" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" /></a>
+      <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS — MDN" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" /></a>
     </td>
   </tr>
   <tr>
@@ -80,10 +80,10 @@
       <sub><i>workflow &amp; hosting</i></sub>
     </td>
     <td>
-      <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-      <a href="https://code.visualstudio.com/" title="VS Code — Official site"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
-      <a href="https://www.postman.com/" title="Postman — Official site"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
-      <a href="https://wordpress.org/" title="WordPress — Official site"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /></a>
+      <a href="https://github.com/" title="GitHub" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+      <a href="https://code.visualstudio.com/" title="VS Code — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
+      <a href="https://www.postman.com/" title="Postman — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
+      <a href="https://wordpress.org/" title="WordPress — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /></a>
     </td>
   </tr>
 </table>
@@ -93,14 +93,14 @@
 <p align="center">
   <sub><b>Also working with:</b></sub>
   <br/>
-  <a href="https://laravel.com/docs/blade" title="Laravel Blade Templates"><img src="https://img.shields.io/badge/Blade-F7523F?style=flat-square&logo=laravel&logoColor=white" /></a>
-  <a href="https://getcomposer.org/" title="Composer"><img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" /></a>
-  <a href="https://restfulapi.net/" title="REST API"><img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" title="MVC Architecture"><img src="https://img.shields.io/badge/MVC_Architecture-512BD4?style=flat-square" /></a>
-  <a href="https://cpanel.net/" title="cPanel"><img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" /></a>
-  <a href="https://www.phpmyadmin.net/" title="phpMyAdmin"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" /></a>
-  <a href="https://wp-cli.org/" title="WP-CLI"><img src="https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
-  <a href="https://www.google.com/recaptcha/about/" title="Google reCAPTCHA"><img src="https://img.shields.io/badge/reCAPTCHA-EA4335?style=flat-square&logo=googlerecaptcha&logoColor=white" /></a>
+  <a href="https://laravel.com/docs/blade" title="Laravel Blade Templates" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blade-F7523F?style=flat-square&logo=laravel&logoColor=white" /></a>
+  <a href="https://getcomposer.org/" title="Composer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" /></a>
+  <a href="https://restfulapi.net/" title="REST API" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" title="MVC Architecture" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MVC_Architecture-512BD4?style=flat-square" /></a>
+  <a href="https://cpanel.net/" title="cPanel" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" /></a>
+  <a href="https://www.phpmyadmin.net/" title="phpMyAdmin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" /></a>
+  <a href="https://wp-cli.org/" title="WP-CLI" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
+  <a href="https://www.google.com/recaptcha/about/" title="Google reCAPTCHA" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/reCAPTCHA-EA4335?style=flat-square&logo=googlerecaptcha&logoColor=white" /></a>
 </p>
 
 ---
@@ -156,13 +156,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alekh-banshwar-5220b6201/">
+  <a href="https://www.linkedin.com/in/alekh-banshwar-5220b6201/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contact@alekh.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/BanshwarTech">
+  <a href="https://github.com/BanshwarTech" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
