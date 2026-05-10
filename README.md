@@ -75,6 +75,8 @@
       <a href="https://code.visualstudio.com/" title="VS Code — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
       <a href="https://www.postman.com/" title="Postman — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
       <a href="https://wordpress.org/" title="WordPress — Official site" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /></a>
+      <a href="https://zapier.com/" title="Zapier — Official site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zapier-FD7A18?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" /></a>
+      <a href="https://claspo.io/" title="Claspo — Official site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Claspo-111827?style=for-the-badge" alt="Claspo" /></a>
     </td>
   </tr>
 </table>
