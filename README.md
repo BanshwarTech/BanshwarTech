@@ -96,6 +96,90 @@
 
 ---
 
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🌍 Earthwise Market
+Complete E-Commerce platform built using Laravel with product management, orders, payments, and admin controls.
+
+**Tech:** Laravel, PHP, MySQL, Bootstrap
+
+</td>
+
+<td width="50%">
+
+#### 🧩 Workspace
+Centralized portfolio and workspace management system for handling projects, experience, and personal data.
+
+**Tech:** Laravel, Blade, MySQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 📋 TaskSyncPro
+Desktop-inspired task management system with team collaboration and workflow tracking.
+
+**Tech:** PHP, HTML, JavaScript
+
+</td>
+
+<td width="50%">
+
+#### 🏢 OfficeMatrix
+CRM and office management solution for employees, departments, and internal operations.
+
+**Tech:** Laravel, MySQL, Bootstrap
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🛡️ reCAPTCHA Integration
+Google reCAPTCHA v2/v3 implementation for form protection and spam prevention.
+
+**Tech:** PHP, JavaScript
+
+</td>
+
+<td width="50%">
+
+#### ☁️ Hosting & Migration Tools
+Hosting automation, migration utilities, and WHMCS-based customer management solutions.
+
+**Tech:** WHMCS API, Laravel, PHP
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BanshwarTech&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BanshwarTech&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanshwarTech&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
