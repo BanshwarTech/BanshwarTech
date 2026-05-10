@@ -1,13 +1,6 @@
 <h1 align="center">Hi there, I'm Alekh Banshwar 👋</h1>
 <h3 align="center">Full-Stack PHP Developer · Laravel Specialist · Web Hosting Domain</h3>
 
-<p align="center">
-  <a href="https://github.com/BanshwarTech" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=BanshwarTech&label=Profile%20views&color=00bfff&style=for-the-badge" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/BanshwarTech?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/BanshwarTech?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=Building+robust+web+applications;Laravel+%7C+PHP+%7C+React+%7C+JavaScript;Web+Hosting+%7C+EdTech+%7C+Form+Security;Clean+code.+Scalable+solutions." alt="Typing SVG" />
