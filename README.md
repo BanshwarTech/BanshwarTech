@@ -118,12 +118,24 @@
 
 ---
 
-### 📈 Activity, Languages & Community
-
-> Auto-generated from real GitHub activity by the [`metrics`](./.github/workflows/metrics.yml) workflow (refreshes every 12 hours).   
+### 📈 Activity & Productivity Insights
 
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics — activity, community, repositories, languages" />
+  <em>Real-time data — refreshes on every page visit.</em>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BanshwarTech&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BanshwarTech&theme=tokyonight&utcOffset=5.5" alt="Most Productive Time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BanshwarTech&theme=tokyonight" alt="Most Commit Language" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BanshwarTech&theme=tokyonight" alt="Repos Per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BanshwarTech&theme=tokyonight" alt="Stats Summary" width="49%" />
 </p>
 
 ---
@@ -140,15 +152,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BanshwarTech/BanshwarTech/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake animation eating the GitHub contribution graph" src="https://raw.githubusercontent.com/BanshwarTech/BanshwarTech/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-### 🔥 Coding Habits & Achievements
-
-<p align="center">
-  <img src="./metrics.plugin.habits.svg" alt="Coding Habits" width="49%" />
-  <img src="./metrics.plugin.achievements.svg" alt="Achievements" width="49%" />
 </p>
 
 ---
