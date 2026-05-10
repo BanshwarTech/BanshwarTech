@@ -96,28 +96,6 @@
 
 ---
 
-### 📊 GitHub Stats — Live Data
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BanshwarTech&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BanshwarTech&theme=tokyonight" alt="Stats Summary" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BanshwarTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BanshwarTech&theme=tokyonight" alt="Most Commit Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BanshwarTech&theme=tokyonight&utcOffset=5.5" alt="Most Productive Time" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BanshwarTech&theme=tokyonight" alt="Repositories Per Language" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
