@@ -99,13 +99,27 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BanshwarTech&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
-
-  <img src="https://streak-stats.demolab.com?user=BanshwarTech&theme=tokyonight&hide_border=false" height="180"/>
+  <a href="https://github.com/BanshwarTech">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=BanshwarTech&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true"
+      height="180"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/BanshwarTech">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=BanshwarTech&theme=tokyonight&hide_border=true"
+      height="180"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanshwarTech&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanshwarTech&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
