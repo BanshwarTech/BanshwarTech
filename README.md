@@ -118,44 +118,6 @@
 
 ---
 
-### 📈 Activity & Productivity Insights
-
-<p align="center">
-  <em>Real-time data — refreshes on every page visit.</em>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BanshwarTech&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BanshwarTech&theme=tokyonight&utcOffset=5.5" alt="Most Productive Time" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BanshwarTech&theme=tokyonight" alt="Most Commit Language" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BanshwarTech&theme=tokyonight" alt="Repos Per Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BanshwarTech&theme=tokyonight" alt="Stats Summary" width="49%" />
-</p>
-
----
-
-### 🐍 Contribution Snake — Full Year Activity
-
-<p align="center">
-  <em>Animated snake eating my last 12 months of GitHub contributions — auto-refreshes every 12 hours.</em>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BanshwarTech/BanshwarTech/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BanshwarTech/BanshwarTech/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation eating the GitHub contribution graph" src="https://raw.githubusercontent.com/BanshwarTech/BanshwarTech/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
