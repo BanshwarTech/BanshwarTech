@@ -66,9 +66,6 @@
     </td>
     <td>
       <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript — MDN"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
-      <a href="https://www.typescriptlang.org/" title="TypeScript — Official site"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
-      <a href="https://react.dev/" title="React — Official site"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
-      <a href="https://nextjs.org/" title="Next.js — Official site"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" /></a>
       <a href="https://vuejs.org/" title="Vue.js — Official site"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" /></a>
       <a href="https://tailwindcss.com/" title="Tailwind CSS — Official site"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
       <a href="https://getbootstrap.com/" title="Bootstrap — Official site"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
