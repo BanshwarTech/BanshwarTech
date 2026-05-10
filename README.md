@@ -10,11 +10,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building scalable web applications with **Laravel 12** at **YouStable**
+- 🔭 Currently building scalable web applications with **Core PHP** & **Laravel** at **YouStable**
 - 💼 Working across the **web hosting industry** — building platforms, migrations, and customer tools
-- 🌱 Expanding into **modern JavaScript stacks** — React, Vue, and TypeScript
 - 🛡️ Built form-security tooling around **Google reCAPTCHA v2/v3**
-- 🎓 Built **fee-management systems** for educational institutions (Laravel + Blade)
 - 💬 Ask me about **Laravel, PHP, MySQL, server migrations, hosting platforms**
 - 📫 Reach me at **contact@alekh.dev**
 
@@ -101,12 +99,21 @@
 ### 📊 GitHub Stats — Live Data
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BanshwarTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170em" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BanshwarTech&theme=tokyonight&hide_border=true" height="170em" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BanshwarTech&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanshwarTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BanshwarTech&theme=tokyonight" alt="Stats Summary" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BanshwarTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BanshwarTech&theme=tokyonight" alt="Most Commit Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BanshwarTech&theme=tokyonight&utcOffset=5.5" alt="Most Productive Time" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BanshwarTech&theme=tokyonight" alt="Repositories Per Language" />
 </p>
 
 ---
