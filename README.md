@@ -71,7 +71,7 @@
       <sub><i>workflow &amp; hosting</i></sub>
     </td>
     <td style="white-space:nowrap;">
-      <div style="display:inline-flex; flex-wrap:nowrap; gap:6px; align-items:center; white-space:nowrap;">
+      <div style="display:flex; flex-wrap:nowrap; gap:6px; align-items:center; white-space:nowrap;">
         <a href="https://github.com/" title="GitHub" target="_blank" rel="noopener noreferrer">
           <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48" />
         </a>
