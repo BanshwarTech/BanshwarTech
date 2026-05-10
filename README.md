@@ -33,7 +33,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <em>From production Laravel apps to React frontends — here's the toolbox I ship with.</em>
+  <em>From production Laravel applications to modern React frontends, this is the stack I rely on to build, ship, and scale.</em>
 </p>
 
 <div align="center">
@@ -115,4 +115,4 @@
 
 ---
 
-<p align="center"><i>“Code is like humor. When you have to explain it, it's bad.” — Cory House</i></p>
+<p align="center"><i>“Good code speaks clearly for itself, even when the system behind it is complex.”</i></p>
