@@ -100,7 +100,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alekh-banshwar-5220b6201/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin-white&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/916388328558" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
