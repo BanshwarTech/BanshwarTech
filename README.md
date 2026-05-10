@@ -118,17 +118,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BanshwarTech&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📈 Activity, Languages & Community
 
-> Auto-generated from real GitHub activity by the [`metrics`](./.github/workflows/metrics.yml) workflow (refreshes every 12 hours).
+> Auto-generated from real GitHub activity by the [`metrics`](./.github/workflows/metrics.yml) workflow (refreshes every 12 hours).   
 
 <p align="center">
   <img src="./metrics.svg" alt="GitHub Metrics — activity, community, repositories, languages" />
@@ -136,10 +128,10 @@
 
 ---
 
-### 🗓️ Contribution Calendar (3D — Full Year)
+### 🗓️ Contribution Activity Graph
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="3D Contribution Calendar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BanshwarTech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months" alt="Contribution Activity Graph" />
 </p>
 
 ---
