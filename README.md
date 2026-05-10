@@ -128,10 +128,18 @@
 
 ---
 
-### 🗓️ Contribution Activity Graph
+### 🐍 Contribution Snake — Full Year Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BanshwarTech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months" alt="Contribution Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BanshwarTech/BanshwarTech/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BanshwarTech/BanshwarTech/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation eating my GitHub graph" src="https://raw.githubusercontent.com/BanshwarTech/BanshwarTech/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BanshwarTech&theme=tokyo-night&hide_border=true&area=true&days=365&custom_title=Contribution%20Trend%20%E2%80%94%20Past%20365%20Days" alt="Contribution Activity Graph (365 days)" />
 </p>
 
 ---
