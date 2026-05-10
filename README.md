@@ -73,22 +73,22 @@
     <td>
       <span style="white-space:nowrap;">
         <a href="https://github.com/" title="GitHub" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
-          <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40" style="display:block;" />
+          <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"  />
         </a>
-        <a href="https://code.visualstudio.com/" title="VS Code — Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
-          <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40" style="display:block;" />
+        <a href="https://code.visualstudio.com/" title="VS Code ï¿½ Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
+          <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"  />
         </a>
-        <a href="https://www.postman.com/" title="Postman — Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
-          <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="40" height="40" style="display:block;" />
+        <a href="https://www.postman.com/" title="Postman ï¿½ Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
+          <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"  />
         </a>
-        <a href="https://wordpress.org/" title="WordPress — Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
-          <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" width="40" height="40" style="display:block;" />
+        <a href="https://wordpress.org/" title="WordPress ï¿½ Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
+          <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress"  />
         </a>
-        <a href="https://zapier.com/" title="Zapier — Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
-          <img src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier" width="40" height="40" style="display:block;" />
+        <a href="https://zapier.com/" title="Zapier ï¿½ Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
+          <img src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier"  />
         </a>
-        <a href="https://claspo.io/" title="Claspo — Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
-          <img src="https://www.google.com/s2/favicons?domain=claspo.io&sz=64" alt="Claspo" width="40" height="40" style="display:block;" />
+        <a href="https://claspo.io/" title="Claspo ï¿½ Official site" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle;">
+          <img src="https://www.google.com/s2/favicons?domain=claspo.io&sz=64" alt="Claspo"  />
         </a>
       </span>
     </td>
