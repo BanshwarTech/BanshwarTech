@@ -34,9 +34,9 @@ _Automatically refreshed from recently pushed public repositories owned by this 
 <!-- AUTO_REPOSITORY_LANGUAGES_START -->
 ## Technologies detected in public repositories
 
-PHP · TypeScript · Blade · CSS · Vue · JavaScript · HTML · Hack
+Laravel · PHP · TypeScript · Blade · CSS · Vue.js · JavaScript · HTML
 
-_Detected using GitHub language statistics; this reflects repository code, not a self-rated proficiency level._
+_Detected using GitHub language statistics plus Laravel framework detection from repository manifests; this reflects repository code, not a self-rated proficiency level._
 
 <!-- AUTO_REPOSITORY_LANGUAGES_END -->
 
