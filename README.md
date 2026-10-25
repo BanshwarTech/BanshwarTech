@@ -7,7 +7,7 @@ I’m a backend-focused **PHP and Laravel Developer** building web applications,
 - **Backend:** PHP, Laravel, REST API development, authentication, third-party integrations
 - **Frontend:** Vue.js, Inertia.js, JavaScript, HTML, CSS, Tailwind CSS
 - **Databases:** MySQL, MariaDB, SQLite
-- **Tools & platforms:** Git, GitHub Actions, Docker, Linux/Ubuntu, Composer
+- **Tools & platforms:** Git, GitHub Actions, Composer
 - **Integrations:** Meta/WhatsApp API, WHMCS API, OpenAI API
 
 ## Selected projects
@@ -45,7 +45,7 @@ _This list is refreshed using GitHub language statistics from public repositorie
 - Building maintainable Laravel applications and secure, reusable REST APIs
 - Improving full-stack delivery with Vue.js, Inertia.js, and Tailwind CSS
 - Automating repository maintenance and developer workflows with GitHub Actions
-- Practicing Docker-based development and Linux deployment
+- Improving code quality, API reliability, and maintainable application architecture
 
 ## Find me online
 
