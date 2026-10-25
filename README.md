@@ -1,35 +1,31 @@
-# Alekh Banshwar — PHP & Laravel Developer 👋
+# BanshwarTech
+
+## Overview
 
 I’m a backend-focused **PHP and Laravel Developer** who builds web applications, REST APIs, admin dashboards, integrations, and developer tools. I also work with Vue.js, Inertia.js, Tailwind CSS, and MySQL to deliver full-stack features.
 
-## Skills
+## Technology stack
 
-- **Backend:** PHP, Laravel, REST APIs, authentication, integrations
-- **Frontend:** Vue.js, Inertia.js, JavaScript, HTML, CSS, Tailwind CSS
-- **Database:** MySQL, MariaDB, SQLite
-- **Tools & platforms:** Git, GitHub Actions, Docker, Linux/Ubuntu, Composer
-- **Integrations:** OpenAI API, WhatsApp/Meta API, WHMCS API
+- See the project files and dependency manifests for the exact stack.
 
-## Selected projects
+## Repository structure
 
-- **DevMatrixa** — Developer tools and utilities: https://devmatrixa.vercel.app/
-- **WPMark** — WhatsApp lead and messaging workflows with Meta API and WHMCS integration: https://wpmark.youstable.cfd/
-- **Image SEO Studio** — Image SEO and optimization tools: https://imageseostudio.alekh.dev/
-- **Alekh.dev** — Developer portfolio and technical blog: https://alekh.dev/blogs/
-- **HiQloud** — Hosting platform features and Virtualizor integration: https://hiqloud.com/
+- `README.md`
 
-## Currently focused on
+## Setup
 
-- Building maintainable Laravel applications and secure REST APIs
-- Improving full-stack delivery with Vue.js, Inertia.js, and Tailwind CSS
-- Automating repository maintenance and developer workflows with GitHub Actions
-- Practicing Docker-based development and Linux deployment
+1. Clone this repository and enter its directory.
+2. Review the dependency manifests and configure required environment variables using an example environment file if provided.
+3. Install dependencies using the package manager for this project.
+4. Configure the required database/services and run the project's migrations or setup commands, if applicable.
+5. Start the development server using the commands documented in the dependency manifest or application configuration.
 
-## Find me online
+## Development notes
 
-- **Portfolio / blog:** https://alekh.dev/
-- **GitHub:** https://github.com/BanshwarTech
+- Never commit secrets, access tokens, passwords, or production environment files.
+- Check configuration and dependency manifests before deploying.
+- Replace these general setup notes with project-specific commands when the exact runtime requirements are confirmed.
 
----
+## License
 
-_This profile is maintained as a practical overview of my developer skills and selected projects. Project links and stack details should be periodically verified._
+Check this repository for a LICENSE file before redistributing or reusing the project.
