@@ -1,31 +1,48 @@
-# BanshwarTech
+# Alekh Banshwar — PHP & Laravel Developer 👋
 
-## Overview
+I’m a backend-focused **PHP and Laravel Developer** building web applications, REST APIs, admin dashboards, integrations, and developer tools. I also work with Vue.js, Inertia.js, Tailwind CSS, and MySQL to deliver full-stack features.
 
-I’m a backend-focused **PHP and Laravel Developer** who builds web applications, REST APIs, admin dashboards, integrations, and developer tools. I also work with Vue.js, Inertia.js, Tailwind CSS, and MySQL to deliver full-stack features.
+## Core skills
 
-## Technology stack
+- **Backend:** PHP, Laravel, REST API development, authentication, third-party integrations
+- **Frontend:** Vue.js, Inertia.js, JavaScript, HTML, CSS, Tailwind CSS
+- **Databases:** MySQL, MariaDB, SQLite
+- **Tools & platforms:** Git, GitHub Actions, Docker, Linux/Ubuntu, Composer
+- **Integrations:** Meta/WhatsApp API, WHMCS API, OpenAI API
 
-- See the project files and dependency manifests for the exact stack.
+## Selected projects
 
-## Repository structure
+- **DevMatrixa** — Developer tools and SEO utilities: https://devmatrixa.vercel.app/
+- **WPMark** — WhatsApp lead and messaging workflows with Meta API and WHMCS integration: https://wpmark.youstable.cfd/
+- **Image SEO Studio** — Image SEO and optimization tools: https://imageseostudio.alekh.dev/
+- **Alekh.dev** — Developer portfolio: https://alekh.dev/
 
-- `README.md`
+<!-- AUTO_RECENT_PROJECTS_START -->
+## Recent public repositories
 
-## Setup
+_Automatically refreshed from recently pushed public repositories owned by this account._
 
-1. Clone this repository and enter its directory.
-2. Review the dependency manifests and configure required environment variables using an example environment file if provided.
-3. Install dependencies using the package manager for this project.
-4. Configure the required database/services and run the project's migrations or setup commands, if applicable.
-5. Start the development server using the commands documented in the dependency manifest or application configuration.
+<!-- AUTO_RECENT_PROJECTS_END -->
 
-## Development notes
+<!-- AUTO_REPOSITORY_LANGUAGES_START -->
+## Technologies detected in public repositories
 
-- Never commit secrets, access tokens, passwords, or production environment files.
-- Check configuration and dependency manifests before deploying.
-- Replace these general setup notes with project-specific commands when the exact runtime requirements are confirmed.
+_This section is refreshed from public repository language statistics._
 
-## License
+<!-- AUTO_REPOSITORY_LANGUAGES_END -->
 
-Check this repository for a LICENSE file before redistributing or reusing the project.
+## Current focus
+
+- Building maintainable Laravel applications and secure, reusable REST APIs
+- Improving full-stack delivery with Vue.js, Inertia.js, and Tailwind CSS
+- Automating repository maintenance and developer workflows with GitHub Actions
+- Practicing Docker-based development and Linux deployment
+
+## Find me online
+
+- **Portfolio:** https://alekh.dev/
+- **GitHub:** https://github.com/BanshwarTech
+
+---
+
+_Recent public repositories and detected language statistics are updated automatically by GitHub Actions approximately every 15 days. Private repositories are not listed._
