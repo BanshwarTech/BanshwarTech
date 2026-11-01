@@ -23,20 +23,20 @@ I’m a backend-focused **PHP and Laravel Developer** building web applications,
 _Automatically refreshed from recently pushed public repositories owned by this account._
 
 - [yatifoundation.alekh.dev](https://github.com/BanshwarTech/yatifoundation.alekh.dev) — A modern, fully responsive website for Yati Foundation, a non-profit organisation working in education, healthcare and community livelihoods. Built with PHP + MySQL and a custom...
+- [WA-Direct-Automation](https://github.com/BanshwarTech/WA-Direct-Automation) — WA Direct Automation is a complete open-source WhatsApp automation toolkit and script hub. It lets you send WhatsApp messages directly in the background without a Meta Developer...
+- [MailDart](https://github.com/BanshwarTech/MailDart) — Self-hosted email delivery and campaign management application built with core PHP and MySQL, featuring SMTP configuration, message logs, authentication, and an admin dashboard.
 - [devflow](https://github.com/BanshwarTech/devflow) — DevFlow is a complete project management SaaS application designed to help teams manage projects, tasks, teams, and collaboration. It demonstrates advanced Laravel 13 features i...
 - [devmatrixa.alekh.dev](https://github.com/BanshwarTech/devmatrixa.alekh.dev) — Free, no-signup collection of developer & SEO tools — no bloat, no paywalls.
-- [MailDart](https://github.com/BanshwarTech/MailDart) — Self-hosted email delivery and campaign management application built with core PHP and MySQL, featuring SMTP configuration, message logs, authentication, and an admin dashboard.
 - [HealthScan](https://github.com/BanshwarTech/HealthScan) — HealthScan is a modern security and technical health auditing platform designed for developers, DevOps engineers, and digital agencies. It performs 45+ non-invasive automated ch...
-- [CodeHumanizer---AI-Code-Detector-Production-Sanitizer](https://github.com/BanshwarTech/CodeHumanizer---AI-Code-Detector-Production-Sanitizer) — --- When AI models (ChatGPT, Claude, Gemini, Copilot) write code, they leave behind obvious, unidiomatic signatures that compromise code reviews, introduce security blindspots,...
 
 <!-- AUTO_RECENT_PROJECTS_END -->
 
 <!-- AUTO_REPOSITORY_LANGUAGES_START -->
 ## Technologies detected in public repositories
 
-Laravel · PHP · TypeScript · Blade · CSS · Vue.js · JavaScript · HTML
+PHP · TypeScript · Blade · CSS · Vue · JavaScript · HTML · Hack
 
-_Detected using GitHub language statistics plus Laravel framework detection from repository manifests; this reflects repository code, not a self-rated proficiency level._
+_Detected using GitHub language statistics; this reflects repository code, not a self-rated proficiency level._
 
 <!-- AUTO_REPOSITORY_LANGUAGES_END -->
 
